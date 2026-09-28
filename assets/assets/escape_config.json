@@ -1,0 +1,43 @@
+{
+  "game_title": "Mathe-Kisten-Escape",
+  "access_code": "MATHE2026",
+  "max_time_minutes": 20,
+  "penalty_minutes_per_error": 4,
+  "chests": [
+    {
+      "chest_id": "Kiste 1 (Grundlagen)",
+      "lock_digit": "4",
+      "tasks": [
+        {
+          "question": "Teil 1: Berechne 3x + 5 = 20. Was ist x?",
+          "solutions": ["5", "x=5"]
+        },
+        {
+          "question": "Teil 2: Was ist 12 + 13?",
+          "solutions": ["25"]
+        }
+      ]
+    },
+    {
+      "chest_id": "Kiste 2 (Geometrie)",
+      "lock_digit": "9",
+      "tasks": [
+        {
+          "question": "Wie groß ist die Summe der Innenwinkel eines Dreiecks?",
+          "solutions": ["180", "180 grad", "180°"]
+        }
+      ]
+    },
+    {
+      "chest_id": "Kiste 3 (Algebra)",
+      "lock_digit": "1",
+      "tasks": [
+        {
+          "question": "Berechne die Wurzel aus 49.",
+          "solutions": ["7"]
+        }
+      ]
+    }
+  ]
+}
+
