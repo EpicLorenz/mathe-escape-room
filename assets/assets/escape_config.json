@@ -9,7 +9,7 @@
       "lock_digit": "6",
       "tasks": [
         {
-          "question": "Teil 1: Gıb Daten mit bis zu 5 Zahlen an beı denen: Der Mittelwert 5, Die Spannweite 12 und der Median 4 ist.",
+          "question": "Teil 1: Gıb Daten mit bis zu 5 Ziffern an beı denen: Der Mittelwert 5, Die Spannweite 12 und der Median 4 ist.",
           "solutions": [
   "0, 0, 8, 12",
   "0, 1, 7, 12",
@@ -56,28 +56,69 @@
 
         },
         {
-          "question": "Teil 2: Was ist 12 + 13?",
-          "solutions": ["25"]
-        }
+          "question": "Teil 2: Gib Daten mit bis zu 5 Ziffern an bei denen: Die Spannweite gleich dem Mittelwert ist.",
+          "solutions": [
+  "3,4,8",
+  "3,3,4,7,8",
+  "3,4,4,6,8",
+  "4,4,4,4,9"
+]
+
+        },
+        {
+         "question": "Teil 2: Gib Daten mit bis zu 5 Ziffern an bei denen: Der Mittelwert gleich bleibt wenn man die größte und kleinste Zahl streicht.",
+         "solutions": [
+  "1,2,3",
+  "1,3,5",
+  "1,4,7",
+  "1,5,9",
+  "2,3,4",
+  "2,4,6",
+  "2,5,8",
+  "3,4,5",
+  "3,5,7",
+  "3,6,9",
+  "4,5,6",
+  "4,6,8",
+  "5,6,7",
+  "5,7,9",
+  "6,7,8",
+  "7,8,9",
+  "1,2,3,4",
+  "2,3,4,5",
+  "3,4,5,6",
+  "4,5,6,7",
+  "5,6,7,8",
+  "6,7,8,9"
+]
+
       ]
     },
     {
-      "chest_id": "Kiste 2 (Geometrie)",
-      "lock_digit": "9",
+      "chest_id": "Kiste 2 (Therme mit einer Variable(n))",
+      "lock_digit": "3",
       "tasks": [
         {
-          "question": "Wie groß ist die Summe der Innenwinkel eines Dreiecks?",
-          "solutions": ["180", "180 grad", "180°"]
+          "question": "Stelle zu der beschriebenen Situation einen Therm mit einer Variable(n) auf: Ein Eisbärbaby wiegt bei der Geburt 500 Gramm jeden Tag nimmt es 70 Gramm zu.",
+          "solutions": 
+        },
+        {
+         "question": "Stelle zu der beschriebenen Situation einen Therm mit einer Variable(n) auf: Die Entfernung eines Gewitters in Kilometern ist ungefähr die Zeit zwischen Blitz und Donner in Sekunden geteilt durch 3.",
+         "solutions": 
+        },
+        {
+         "question": "Stelle zu der beschriebenen Situation einen Therm mit einer Variable(n) auf: Die Snowboardleihe kostet 27€ Grundgebühr und 22,50€ Leihgebühr pro Tag.",
+         "solutions": 
         }
       ]
     },
     {
-      "chest_id": "Kiste 3 (Algebra)",
+      "chest_id": "Kiste 3 (Summen mit einer Variable(n) vereinfachen. S18 Nr 3)",
       "lock_digit": "1",
       "tasks": [
         {
-          "question": "Berechne die Wurzel aus 49.",
-          "solutions": ["7"]
+          "question": "Vereinfache den Therm: x+2+6",
+          "solutions": []
         }
       ]
     }
