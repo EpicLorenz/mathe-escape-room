@@ -9,7 +9,7 @@
       "lock_digit": "4",
       "tasks": [
         {
-          "question": "Teil 1: Berechne 3x + 5 = 20. Was ist x?",
+          "question": "Teil 1: Berechne 3•x + 5 = 20. Was ist x?",
           "solutions": ["5", "x=5"]
         },
         {
