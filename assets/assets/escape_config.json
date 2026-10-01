@@ -55,8 +55,27 @@
             "x / 3", "x:3", "t / 3"
           ]
         }
-      ]
+        {
+          "question": "Stelle zu der beschriebenen Situation einen Term mit einer Variablen auf: Die Snowboardleihe kostet 27€ Grundgebühr und 22,50€ Leihgebühr pro Tag.",
+          "solutions": 
     }
+
+  "chest_id": "Kiste 3 (Summe mit einer Variable vereinfachen.)",
+      "lock_digit": "7",
+      "tasks": [
+         {
+          "question": "Vereinfache dem Term: x + 2 + 6.",
+          "solutions": 
+    }
+        {
+          "question": "Vereinfache dem Term: 6 + x + 4.",
+          "solutions": 
+    }
+        {
+          "question": "Vereinfache dem Term: 2 + x + 5..",
+          "solutions": 
+    }
+        
   ]
 }
 
